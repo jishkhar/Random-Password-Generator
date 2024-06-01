@@ -1,1 +1,1 @@
-random-password-generator-rho-three.vercel.app
+https://random-password-generator-rho-three.vercel.app/
